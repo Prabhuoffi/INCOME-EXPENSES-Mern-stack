@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "income expenese tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "prabhuoffi"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "whatwg-url": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
