@@ -13,9 +13,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
-$ cd amazona
-```
+$ https://github.com/Prabhuoffi/INCOME-EXPENSES-Mern-stack.git
+
 
 ### 2. Setup MongoDB
 
