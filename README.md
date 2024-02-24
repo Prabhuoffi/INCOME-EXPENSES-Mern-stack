@@ -1,6 +1,6 @@
 
-
-  ##Learn concepts
+Income expenses 
+ 
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
@@ -30,6 +30,7 @@ $ https://github.com/Prabhuoffi/INCOME-EXPENSES-Mern-stack.git
 ### 3. Run Backend
 
 ```
+$ cd backend
 $ npm install
 $ npm start
 ```
